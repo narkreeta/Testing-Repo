@@ -1,3 +1,3 @@
-function printing(){
+funcion printing(){
   console.log("hey")
 }
